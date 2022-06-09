@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "94ffe3521d78d911",
+    "type": "split",
+    "children": [
+      {
+        "id": "2251eb4fa9fb568c",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "observable-util/(img)排队运行reaction.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "972a976c41297676",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7604111d394068d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b66c1f9aa3a0f9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "71186b14f408a7f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e03d1e5e19d23a3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b947ad59e4100914",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b31142c2f204a30d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "observable-util/(img)排队运行reaction.png",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "2251eb4fa9fb568c",
+  "lastOpenFiles": [
+    "observable-util/(img)排队运行reaction.png",
+    "observable-util/(img)获取值.png",
+    "observable-util/(img)设值.png",
+    "observable-util/(img)reaction调用.png",
+    "observable-util/基本使用.md",
+    "observable-util/observable-util.md",
+    "年糕.jpeg",
+    "Pasted image 20220304165631.png",
+    "observable-util/(img)注册reaction.png",
+    "mobx/todo.md"
+  ]
+}

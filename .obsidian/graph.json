@@ -1,0 +1,30 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#技术",
+      "color": {
+        "a": 1,
+        "rgb": 16726102
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2.1,
+  "nodeSizeMultiplier": 1.08227163461538,
+  "lineSizeMultiplier": 3.8625,
+  "collapse-forces": false,
+  "centerStrength": 0.208962912087912,
+  "repelStrength": 9.03846153846154,
+  "linkStrength": 1,
+  "linkDistance": 218,
+  "scale": 1.0220222128444922,
+  "close": false
+}
