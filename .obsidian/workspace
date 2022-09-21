@@ -9,7 +9,7 @@
         "state": {
           "type": "image",
           "state": {
-            "file": "observable-util/(img)排队运行reaction.png"
+            "file": "observable-util/(img)注册reaction.png"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "observable-util/(img)排队运行reaction.png",
+                "file": "observable-util/(img)注册reaction.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   "lastOpenFiles": [
     "observable-util/(img)排队运行reaction.png",
     "observable-util/(img)获取值.png",
-    "observable-util/(img)设值.png",
-    "observable-util/(img)reaction调用.png",
-    "observable-util/基本使用.md",
-    "observable-util/observable-util.md",
-    "年糕.jpeg",
-    "Pasted image 20220304165631.png",
     "observable-util/(img)注册reaction.png",
-    "mobx/todo.md"
+    "Pasted image 20220304165631.png",
+    "observable-util/observable-util.md",
+    "mobx/收束点.md",
+    "mobx/defineProperty与Proxy.md",
+    "mobx/todo.md",
+    "mobx/功能.md",
+    "mobx/创建可观察的方式.md"
   ]
 }
